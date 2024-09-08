@@ -40,7 +40,7 @@ const Header = () => {
                             <option>Bangla</option>
                         </select>
                     </div>
-                    <FaRegHeart className='mx-5'></FaRegHeart>
+                    <FaRegHeart className='mx-5 mt-[2px]'></FaRegHeart>
                     <FaRegUser></FaRegUser>
                     <Link href=''>Login</Link>/<Link href=''>Login</Link>
                 </div>
