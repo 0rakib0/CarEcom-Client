@@ -8,7 +8,7 @@ const Navbar = () => {
         <>
             <Header></Header>
             <hr />
-            <div className="lg:flex justify-between items-center bg-base-100 w-11/12 mx-auto mt-2 overflow-x-auto">
+            <div className="lg:flex justify-between items-center bg-base-100 w-11/12 mx-auto overflow-x-auto">
 
                 <div className='flex gap-x-2 md:gap-x-4'>
                     <select className="border-t-2 border-white hover:border-t-2 hover:border-red-400 pt-2">
