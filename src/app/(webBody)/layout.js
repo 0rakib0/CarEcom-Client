@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <div>
       <Navbar></Navbar>
-      <div>
+      <div className="bg-[#fafafa] py-4">
         {children}
       </div>
       <Footer> </Footer>
